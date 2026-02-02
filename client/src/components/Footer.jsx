@@ -12,9 +12,9 @@ const Footer = () => {
         <div className="col-span-1 lg:col-span-2">
           <img src={assets.logo} alt="Logo" className="w-40 mb-4" />
           <p className="text-sm text-gray-600 leading-relaxed">
-            Client-Pradeep is a modern job portal helping students, freshers,
+            Insider Jobs is a modern job portal helping students, freshers,
             and professionals connect with top companies.  
-            Simple, fast, and trusted by users.
+            Simple, fast, and trusted by users. This portal is created for my client - Pradeep.
           </p>
 
           {/* Social Icons */}
